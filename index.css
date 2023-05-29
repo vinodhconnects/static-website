@@ -6,7 +6,7 @@ body{
 #header{
     background-color: rgb(56, 54, 54);
     color: whitesmoke; /* text color */
-    height: 60px;
+    /*height: 60px;*/
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     overflow: hidden;
 }
@@ -22,4 +22,10 @@ body{
      text-shadow: 5px 5px 15px rgb(240, 234, 234);
      border-radius: 10px;
      text-align: center;
+     float: left;
+}
+
+#menu {
+    
+    float: left;
 }

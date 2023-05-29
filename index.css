@@ -65,3 +65,8 @@ body{
     width: 80%;
     background-color: white;
 }
+
+#slide-area #slide-show img{
+    height: 100%;
+    width: 100%;
+}

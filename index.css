@@ -52,3 +52,16 @@ body{
     border-radius: 5px;
     padding: 5px;
 }
+
+#slide-area{
+    height: 300px;
+    background-color: rgb(174, 171, 171);
+
+}
+
+#slide-area #slide-show{
+    height: 100%;
+    margin-left: 10%;
+    width: 80%;
+    background-color: white;
+}

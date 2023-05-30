@@ -90,3 +90,7 @@ body{
     top:45%;
     right: 4%;
 }
+
+.icon:hover{
+    transform: scale(1.5,1.5);
+}

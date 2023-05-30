@@ -64,6 +64,7 @@ body{
     margin-left: 10%;
     width: 80%;
     background-color: white;
+    position:relative;
 }
 
 #slide-area #slide-show img{

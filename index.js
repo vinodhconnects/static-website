@@ -4,6 +4,7 @@ images=["first.jpg","second.jpeg","third.jpeg","fourth.jpeg",
 
 setInterval(
     function() {
-     document.getElementById("img1").src = images[ Math.round(Math.random()*5)]
-    },2000
+     document.getElementById("img1").src = 
+     images[ Math.round(Math.random()*5)]
+    },10000
 )

@@ -29,8 +29,10 @@ for(let service of data.services){
     code+="<h3>"+service.name+"</h3>"
     code+="<img src='"+service.image+"'>"
     code+="<div class='features'> <ul>"
-    for(let feature in service.features){
+    for(let feature of service.features){
         code+="<li>"+feature+"</li>"
     }
     code+="</ul></div></div>"
 }
+
+document.getElementById("services-wrapper").innerHTML=code

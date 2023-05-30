@@ -67,7 +67,13 @@ body{
     position:relative;
 }
 
-#slide-area #slide-show img{
+#slide-area #slide-show #img1{
     height: 100%;
     width: 100%;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
 }

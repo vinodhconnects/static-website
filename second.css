@@ -1,0 +1,15 @@
+#services-wrapper{
+    height: 450px;
+    background-color:  rgb(191, 189, 189);
+    padding: 50px;
+}
+
+#service-box{
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+    float: left;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 3px 3px 5px white;
+}
